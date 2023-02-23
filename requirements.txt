@@ -1,0 +1,14 @@
+audioplayer==0.6
+beautifulsoup4==4.11.2
+certifi==2022.12.7
+charset-normalizer==3.0.1
+comtypes==1.1.14
+idna==3.4
+pypiwin32==223
+pyttsx3==2.90
+pywin32==305
+requests==2.28.2
+soupsieve==2.4
+SpeechRecognition==3.9.0
+urllib3==1.26.14
+wikipedia==1.4.0
