@@ -8,7 +8,7 @@ This virtual assistant will recognize your speech and answer using a voice modul
 - Play your favorite music
 
 ## Procedure
-1 - Install **\`requirements.txt\`** to get all dependencies.
-2 - Run **\`virtual_assistant.py\`**
-3 - Ask for a youtube video, a search for some term, what time is it or to play some music
+1. Install **\`requirements.txt\`** to get all dependencies
+2.  Run **\`virtual_assistant.py\`**
+3.  Ask for a youtube video, a search for some term, what time is it or to play some music
 
